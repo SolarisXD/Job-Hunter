@@ -1,3 +1,5 @@
+# Ignore the strings file
+strings
 # Environment
 .env
 .venv/
@@ -45,3 +47,5 @@ uv.lock
 # Temporary
 .tmp/
 .sisyphus/
+
+.strings/
